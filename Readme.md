@@ -15,4 +15,3 @@ The following functions are implemented:
 - fibnonaci
 - init
 - quick sort
-
