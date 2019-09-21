@@ -16,3 +16,4 @@ The following functions are implemented:
 - init
 - quick sort
 - prime
+- quick sort
