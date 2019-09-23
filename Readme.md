@@ -17,5 +17,5 @@ The following functions are implemented:
 - quick sort
 - prime
 - quick sort
-- RemoveEven
+- removeEven
 - oddCountDown
